@@ -1,0 +1,19 @@
+body { margin-left: 25%; margin-right: 25%; margin-bottom: 3%; }
+form { text-align: center; }
+
+
+.content{
+	display: block;
+   position: relative;
+   overflow: hidden;
+   width: 100%;
+}
+
+.footer{
+	width: 100%;
+	font-size: 80%;
+	border-top: thin dotted #D1D0CE;
+}
+
+
+

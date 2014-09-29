@@ -7,7 +7,7 @@ P2
 <http://cscie15p2.khair.co/>
 
 ## Description
-Project 2 for CSCI E-15 class: password generator.
+Project 2 for CSCI E-15 class: password generator
 
 ## Github
 <https://github.com/tkhair/P2>
@@ -15,5 +15,7 @@ Project 2 for CSCI E-15 class: password generator.
 ## Demo
 
 ## Outside code
+Bootstrap
+
 
 ==
