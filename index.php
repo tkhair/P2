@@ -7,12 +7,11 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
   </head>
-  <body>
-    <h1>Tatiana Khair - CSCI E-15 P2</h1>
-    <h2>Password Generator</h2>
 
-<div class="form">
-<p>This script will help you to generate decent password</p>
+  <body>
+  <?php include("includes/header.php"); ?>
+  <div class="form">
+  <p>This script will help you to generate decent password</p>
   <form>
       <label>Length of password:</label> <input maxlength=15 type='text' name='length' id='length' value=''> <br />
       <br />
@@ -30,10 +29,7 @@
 
 </div>  
 <br />	
-<div class="footer">
-    <p>(c) Tatiana Khair 2014<br/>
-    This page have been developed in-line with Assignment 2 requirements of CSCI E-15 class at Harvard Extension School</p>
-</div>
+<?php include("includes/footer.php"); ?>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
