@@ -16,6 +16,7 @@ Project 2 for CSCI E-15 class: password generator
 
 ## Outside code
 Bootstrap
-
+Error reporting code <https://github.com/susanBuck/notes/blob/master/04_PHP/03_Error_reporting.md>
+Jquery <>
 
 ==
