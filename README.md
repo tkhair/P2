@@ -13,7 +13,7 @@ Project 2 for CSCI E-15 class: password generator
 <https://github.com/tkhair/P2>
 
 ## Demo
-Demo is recorded and hosted together with the project <http://khair.co/cscie15p2/demop2.flv>
+Demo is recorded and hosted together with the project <http://cscie15p2.khair.co/demop2.swf>
 I also added this link to my P1 portfolio
 
 ## Outside code
