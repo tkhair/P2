@@ -30,9 +30,9 @@
   <?php include("includes/header.php"); ?>
 
 <div class="form">
-  <p>This script will help you to generate decent password</p>
+  <p>The following tool is designed to help you to generate reliable password.</p>
       <form id="form">
-          <label>Length of password:</label> <input maxlength=2 type='text' name='length' id='length' value=''> <br />
+          <label>Length of password (number of words):</label> <input maxlength=2 type='text' name='length' id='length' value=''> <br />
           <br />
           <label>Available options:</label> <br />
               <div class="input-group">
